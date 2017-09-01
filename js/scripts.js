@@ -1,6 +1,5 @@
 // scripts.js
-var a,
-	h;
+
 	
 function getTriangleArea(a, h)	{
 
